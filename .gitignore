@@ -1,5 +1,5 @@
 # Binaries for programs and plugins
-registration-operator
+./registration-operator
 *.exe
 *.dll
 *.so
@@ -25,3 +25,5 @@ _output/
 .external-hub-kubeconfig
 .external-managed-kubeconfig
 .idea
+
+.vscode/
