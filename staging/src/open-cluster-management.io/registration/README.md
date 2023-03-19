@@ -2,6 +2,8 @@
 
 # This line will be cherry-back to ocm.
 
+# This line will be cherry-back-forward to registration.
+
 # Cluster Registration
 
 Contains controllers that support:
