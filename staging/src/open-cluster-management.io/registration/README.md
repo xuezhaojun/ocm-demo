@@ -1,5 +1,7 @@
 # Note: Edit this repo in the staging/src/open-cluster-management.io/registration first!
 
+# This line will be cherry-back to ocm.
+
 # Cluster Registration
 
 Contains controllers that support:
